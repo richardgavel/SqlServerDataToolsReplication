@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DefaultSettings>
+  <Publication>
+    <AllowPush>True</AllowPush>
+  </Publication>
+  <Article>
+    <SchemaOptionConvertTimestampToBinary>True</SchemaOptionConvertTimestampToBinary>
+  </Article>
+</DefaultSettings>
